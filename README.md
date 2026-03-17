@@ -31,25 +31,50 @@ Strategic **Data Analyst** at **Haier Pakistan** with a track record of transfor
 
 ---
 
-### 🏆 Proficiency Dashboard
-<p align="left">
-  <strong>Advanced Data Analytics (Excel/DAX)</strong> <br/>
-  <img src="https://progress-bar.dev/90/?scale=100&color=217346&width=600" />
-</p>
-
-<p align="left">
-  <strong>Business Intelligence (Power BI)</strong> <br/>
-  <img src="https://progress-bar.dev/85/?scale=100&color=F2C811&width=600" />
-</p>
-
-<p align="left">
-  <strong>Data Science (Python/SQL)</strong> <br/>
-  <img src="https://progress-bar.dev/80/?scale=100&color=3776AB&width=600" />
-</p>
-
 ---
 
-### 💼 Professional Experience
+### 🏆 Technical Proficiency Dashboard
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <p align="left">
+        <strong>📊 Advanced Data Analytics</strong> <br/>
+        <img src="https://img.shields.io/badge/Excel%20%26%20DAX-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" />
+        <br/>
+        <img src="https://geps.dev/progress/90?dangerColor=217346&warningColor=217346&successColor=217346" alt="90%" />
+      </p>
+    </td>
+    <td width="50%">
+      <p align="left">
+        <strong>💡 Business Intelligence</strong> <br/>
+        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI" />
+        <br/>
+        <img src="https://geps.dev/progress/85?dangerColor=F2C811&warningColor=F2C811&successColor=F2C811" alt="85%" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <p align="left">
+        <strong>🐍 Data Science & Automation</strong> <br/>
+        <img src="https://img.shields.io/badge/Python%20%26%20SQL-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <br/>
+        <img src="https://geps.dev/progress/80?dangerColor=3776AB&warningColor=3776AB&successColor=3776AB" alt="80%" />
+      </p>
+    </td>
+    <td width="50%">
+      <p align="left">
+        <strong>⚙️ ERP & Operations</strong> <br/>
+        <img src="https://img.shields.io/badge/SAP%20ERP-008FD3?style=flat-square&logo=sap&logoColor=white" alt="SAP" />
+        <br/>
+        <img src="https://geps.dev/progress/75?dangerColor=008FD3&warningColor=008FD3&successColor=008FD3" alt="75%" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---### 💼 Professional Experience
 **Data Analyst – Haier Pakistan** | *March 2025 – Present*
 
 * **Manufacturing Intelligence:** Developed dynamic dashboards to monitor **Units Per Hour (UPH)** and production efficiency.
