@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00758F&height=250&section=header&text=Nabeel%20Ahmad&fontSize=80&animation=twinkling" alt="Nabeel Ahmad Banner" width="100%"/>
 </p>
 
-<h2 align="center">🚀 Data Analyst | Manufacturing Intelligence | SAP ERP</h2>
+<h2 align="center">🚀 Data Analyst</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00758F&center=true&vCenter=true&width=600&lines=Turning+complex+data+into+simple+stories;Manufacturing+Intelligence+%7C+SAP+ERP;Predictive+Analytics+%7C+AI+Optimization" alt="Typing Animation" />
